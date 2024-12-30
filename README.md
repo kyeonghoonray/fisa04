@@ -37,6 +37,9 @@ age = 38
 | 김연지 | 여성 |
 
 
+```[화면에 출력될 문자](링크)```
+[네이버]https://naver.com
+
 
 add new line
 
