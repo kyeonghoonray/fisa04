@@ -40,6 +40,8 @@ age = 38
 ```[화면에 출력될 문자](링크)```
 [네이버]https://naver.com
 
+```![링크가 깨졌을 때 나올 안내 메세지](이미지링크)```
+![신짱구](https://i.imgur.com/GE9wXsG.png)
 
 add new line
 
