@@ -24,7 +24,13 @@ unordered list
   - 하위
 - 순서 없는 목차 2
 
+강조하고 싶은 한줄 코드 `python`
 
+```python
+
+name = "김연지"
+age = 38
+```
 
 add new line
 
